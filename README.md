@@ -6,11 +6,13 @@ YZTA GRUP 189
 
 ## 🧑‍💼 Takım Rolleri
 -İsim	Rolü
+
 • Gökçe Nur Çoşgun	Product Owner
 • Şeyda Çentik	Scrum Master
 • Emir Karabulutoğlu	Developer
 • Ömer Daşçi	Developer
 • Sabahattin Makine	Developer
+
 ## 📌 Ürün İsmi
 SymptomAI
 
