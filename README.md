@@ -88,7 +88,19 @@ Bu süreçte takım üyeleri birlikte planlama yaparak her story için tahmini p
 Sprint sonunda hedeflenen 21 SP’nin 8 SP’lik kısmı başarıyla tamamlandı, kalan görevler ise bir sonraki sprint'e aktarılmak üzere değerlendirilmektedir.
 
 ### 📅 Daily Scrum Notları
-*	Toplantılarda ilerlemeler paylaşıldı. 
+*	Toplantılarda ilerlemeler paylaşıldı.
+*	Arayüz geliştirmesi hakkında fikirler oylandı.
+*	Mobile uygunluk tartışıldı ve mobil uygulama geliştirme fikri de onaylandı. 
+
+
+![Mobil Uygulama Ekran Görüntüsü - Kullanıcı Giriş](https://github.com/user-attachments/assets/649509dc-d0ee-4b93-b554-3395ba491dee)
+
+![Mobil Arayüz - Giriş & Kayıt Ekranı](https://github.com/user-attachments/assets/f6a78c91-6044-4f22-bd09-715431e07ab5)
+
+
+
+
+
 ### ✅ Sprint Board Update
 ![image](https://github.com/user-attachments/assets/872808d7-f263-4691-8533-c42c3757458a)
 
