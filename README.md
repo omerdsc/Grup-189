@@ -1,6 +1,6 @@
 # 🧠 Proje Adı: [SymptomAI]
 
-## 👥 Takım İsmi
+## �👥 Takım İsmi
 
 YZTA GRUP 189
 
@@ -31,6 +31,40 @@ Geliştirdiğimiz bu yapay zekâ destekli sağlık asistanı uygulaması, kullan
 ## 📋 Product Backlog
 Product Backlog Link: https://miro.com/app/board/uXjVIhNnvt4=/?share_link_id=175124869679
 ________________________________________
+## � Kurulum ve Çalıştırma
+
+### Gereksinimler
+* Node.js 
+
+### Kurulum
+1. Projeyi klonlayın:
+   ```bash
+   git clone https://github.com/omerdsc/Grup-189.git
+   cd Grup-189
+   ```
+
+2. Bağımlılıkları yükleyin:
+   ```bash
+   npm install
+   ```
+
+### Projeyi Çalıştırma
+1. Geliştirme sunucusunu başlatmak için:
+   ```bash
+   npm run build
+   npm run start
+   ```
+2. Backend sunucusunu başlatmak için:
+   ```bash
+   npm run server
+   ```
+
+Uygulama varsayılan olarak [http://localhost:3000](http://localhost:3000) adresinde çalışacaktır.
+
+
+
+________________________________________________________________________________________________________________________
+
 # 🧾 Sprint Notları
 ## Sprint 1
 *	Sprint Başlangıç Tarihi: 2025-06-20
