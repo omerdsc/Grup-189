@@ -160,6 +160,10 @@ ________________________________________________________________________________
 - Arayüz geliştirmesi hakkında fikirler oylandı.
 - Mobile uygunluk tartışıldı ve mobil uygulama geliştirme fikri de onaylandı. 
 
+![Sprint Task Takibi - Miro Görseli 1](https://github.com/user-attachments/assets/a263df3f-4464-44e7-a6bc-af3ec424e93d)
+
+![Sprint Task Takibi - Miro Görseli 2](https://github.com/user-attachments/assets/f1bad4ad-89ee-4d91-a89c-c5e53a910fdc)
+
 
 ![Mobil Uygulama Ekran Görüntüsü - Kullanıcı Giriş](https://github.com/user-attachments/assets/649509dc-d0ee-4b93-b554-3395ba491dee)
 
