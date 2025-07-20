@@ -103,7 +103,7 @@ Sprint sonunda hedeflenen 21 SP’nin 8 SP’lik kısmı başarıyla tamamlandı
 *	Ürün fikrine karar verildi. 
 *	Takım toplantısı sonrasında roller üyelerle ilişkilendirildi.
 *	Katılımcılar: Product Owner, Scrum Master, Developer Üyeleri
-*	Geri bildirimler:
+*	Geri bildirimler:      
 *	Uygulamanın frontend geliştirmesine başlanmalı. 
 *	Yapay Zeka Entegrasyonu ile ilgili araştırmalar yapılmalı. 
 *	Takım Miro üzerinde yapılan Product Backlog’da daha aktif olmalı
@@ -117,4 +117,87 @@ Sprint sonunda hedeflenen 21 SP’nin 8 SP’lik kısmı başarıyla tamamlandı
  #####	Aksiyonlar:
 * Sprint sonu değerlendirilmesi yapılacak. 
 * 2. Sprint sonunda hedeflenen user story ile gerçekleşen user story aynı olmalı. 
+
+________________________________________________________________________________________________________________________
+
+# 📌 Sprint 2 Raporu
+
+## 🗓️ Sprint Notları
+- **Sprint Başlangıç Tarihi:** 07.07.2025  
+- **Sprint Bitiş Tarihi:** 20.07.2025  
+- **Yeni Karar:** Uygulamanın mobil versiyonunun da yapılmasına karar verildi.  
+- **Hedeflenen User Story Sayısı:** 8  
+- **Gerçekleşen:** 8  
+- **Geciken / Taşınan:** 0  
+
+---
+
+## 📊 Tahmin Edilen Tamamlanacak Puan
+- **Toplam Tahmini Story Point:** 21  
+- **Sprint İçinde Tamamlanan:** 21  
+- **Kalan:** 0  
+
+---
+
+## 🧠 Tahmin Mantığı
+- **Düşük karmaşıklıkta işler:** 1-2 SP  
+- **Orta düzey işler:** 3-5 SP  
+- **Karmaşık işler:** 5-8 SP  
+
+> Bu süreçte takım üyeleri birlikte planlama yaparak her story için tahmini puan verdiler.  
+> Sprint sonunda hedeflenen 21 SP başarıyla tamamlandı.
+
+---
+
+## 🧾 Daily Scrum Notları
+- Günlük toplantılarda ilerlemeler düzenli olarak paylaşıldı.  
+
+---
+
+## 🗂️ Sprint Board Güncellemesi
+
+![Sprint Board](https://github.com/user-attachments/assets/d8812b7b-1608-48e3-afb3-cff0414fee12)
+
+---
+
+## 📸 Ekran Görüntüleri
+
+![Screenshot 1](https://github.com/user-attachments/assets/218274e5-a218-41ff-bc0b-b853a6aaa88e)  
+![Screenshot 2](https://github.com/user-attachments/assets/ca7f930c-e473-478a-b677-553651cf2b56)  
+![Screenshot 3](https://github.com/user-attachments/assets/dd960a11-b6eb-4b76-9b4c-c2f8d6defd48)  
+![Screenshot 4](https://github.com/user-attachments/assets/37cf41c8-9dad-4756-b9f9-075a6501e1ad)  
+![Screenshot 5](https://github.com/user-attachments/assets/a11c8796-53d0-425b-8204-e913851d3ed7)
+
+---
+
+## ✅ Sprint Review
+- **Gelişmeler:**
+  - Frontend geliştirme süreci başlatıldı.
+  - Temel arayüz tasarımları tamamlandı.
+  - Miro üzerinden güncellemeler yapıldı.
+- **Katılımcılar:** Product Owner, Scrum Master, Developer Üyeleri
+- **Geri Bildirimler:**
+  - Kullanıcı arayüzü sade ve anlaşılır ilerliyor.
+  - Sağlık geçmişi ve doktor arama ekranları bir sonraki sprint’te ele alınmalı.
+
+---
+
+## 🔁 Sprint Retrospective
+
+### ✅ Ne İyi Gitti?
+- Ekip içerisinde görev paylaşımı netti.
+- Uygulamanın yönü netleşti, hedefler daha belirgin hale geldi.
+
+### 🔧 Ne Geliştirilebilir?
+- Takım üyeleri görev ilerlemelerini Miro’ya düzenli aktarmalı.
+
+### 🎯 Aksiyonlar:
+- Bir sonraki sprint başında yapılacak işler netleştirilerek sprint hedefi kesinleştirilecek.
+- Proje sonu yaklaştığı için daha düzenli toplantılar yapılacak.
+
+
+
+
+
+
 
