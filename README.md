@@ -89,13 +89,7 @@ Sprint sonunda hedeflenen 21 SP’nin 8 SP’lik kısmı başarıyla tamamlandı
 
 ### 📅 Daily Scrum Notları
 *	Toplantılarda ilerlemeler paylaşıldı.
-*	Arayüz geliştirmesi hakkında fikirler oylandı.
-*	Mobile uygunluk tartışıldı ve mobil uygulama geliştirme fikri de onaylandı. 
 
-
-![Mobil Uygulama Ekran Görüntüsü - Kullanıcı Giriş](https://github.com/user-attachments/assets/649509dc-d0ee-4b93-b554-3395ba491dee)
-
-![Mobil Arayüz - Giriş & Kayıt Ekranı](https://github.com/user-attachments/assets/f6a78c91-6044-4f22-bd09-715431e07ab5)
 
 
 
@@ -162,7 +156,14 @@ ________________________________________________________________________________
 ---
 
 ## 🧾 Daily Scrum Notları
-- Günlük toplantılarda ilerlemeler düzenli olarak paylaşıldı.  
+- Günlük toplantılarda ilerlemeler düzenli olarak paylaşıldı.
+- Arayüz geliştirmesi hakkında fikirler oylandı.
+- Mobile uygunluk tartışıldı ve mobil uygulama geliştirme fikri de onaylandı. 
+
+
+![Mobil Uygulama Ekran Görüntüsü - Kullanıcı Giriş](https://github.com/user-attachments/assets/649509dc-d0ee-4b93-b554-3395ba491dee)
+
+![Mobil Arayüz - Giriş & Kayıt Ekranı](https://github.com/user-attachments/assets/f6a78c91-6044-4f22-bd09-715431e07ab5)
 
 ---
 
