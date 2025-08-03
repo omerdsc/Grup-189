@@ -30,7 +30,7 @@ interface Message {
   timestamp: string;
 }
 
-const SymptomAI: React.FC = () => {
+const SymptomAI = () => {
   const [activeSection, setActiveSection] = useState<'home' | 'diagnosis' | 'doctors' | 'history'>('home');
   const [messages, setMessages] = useState<Message[]>([]);
   const [inputMessage, setInputMessage] = useState('');
@@ -87,28 +87,52 @@ const SymptomAI: React.FC = () => {
     }
   ];
 
-  // Sample past diagnoses data
+  // Get chat history for diagnoses
+  const getChatHistory = () => {
+    const history: Diagnosis[] = [];
+    let currentSymptoms = '';
+    let currentDiagnosis = '';
+
+    messages.forEach((message, index) => {
+      if (message.sender === 'user') {
+        currentSymptoms = message.text;
+      } else if (message.sender === 'ai' && currentSymptoms) {
+        currentDiagnosis = message.text;
+        
+        if (currentSymptoms && currentDiagnosis) {
+          history.push({
+            id: index,
+            date: new Date().toISOString().split('T')[0],
+            symptoms: currentSymptoms,
+            diagnosis: currentDiagnosis.split('\n')[0], // First line of AI response
+            confidence: '90%' // You can adjust this based on AI response
+          });
+          
+          currentSymptoms = '';
+          currentDiagnosis = '';
+        }
+      }
+    });
+
+    return history;
+  };
+
+  // Combine sample and chat history
   const pastDiagnoses: Diagnosis[] = [
+    ...getChatHistory().reverse(),
     {
-      id: 1,
+      id: 998,
       date: '2024-12-15',
       symptoms: 'Fever, headache, body aches',
       diagnosis: 'Common Cold',
       confidence: '85%'
     },
     {
-      id: 2,
+      id: 999,
       date: '2024-12-10',
       symptoms: 'Stomach pain, nausea, loss of appetite',
       diagnosis: 'Gastritis',
       confidence: '78%'
-    },
-    {
-      id: 3,
-      date: '2024-12-05',
-      symptoms: 'Persistent cough, chest tightness',
-      diagnosis: 'Bronchitis',
-      confidence: '82%'
     }
   ];
 
@@ -338,7 +362,7 @@ const SymptomAI: React.FC = () => {
                 value={inputMessage}
                 onChange={(e) => setInputMessage(e.target.value)}
                 placeholder="Type your symptoms here..."
-                className="flex-1 px-4 py-2 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+                className="flex-1 px-4 py-2 border border-gray-200 rounded-xl focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-gray-900"
                 onKeyPress={(e) => {
                   if (e.key === 'Enter') {
                     handleSendMessage();

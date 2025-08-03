@@ -1,5 +1,8 @@
-import { type RouteConfig, index } from "@react-router/dev/routes";
+import SymptomAI from './symptomai-frontend';
 
-export default [
-  index("symptomai-frontend.tsx")
-] satisfies RouteConfig;
+export default function App() {
+  return {
+    element: <SymptomAI />,
+    children: []
+  };
+}
