@@ -213,6 +213,91 @@ ________________________________________________________________________________
 - Proje sonu yaklaştığı için daha düzenli toplantılar yapılacak.
 
 
+____________________________________________________________________________________________________________________________________________________
+
+# 🚀 Sprint 3 Raporu
+
+## 🗓️ Sprint Notları
+- **Sprint Başlangıç Tarihi:** 21.07.2025  
+- **Sprint Bitiş Tarihi:** 03.08.2025  
+- **Hedeflenen User Story Sayısı:** 8  
+- **Gerçekleşen:** 8  
+- **Geciken / Taşınan:** 0  
+
+---
+
+## 📊 Tahmin Edilen Tamamlanacak Puan
+- **Toplam Tahmini Story Point:** 21  
+- **Sprint İçinde Tamamlanan:** 21  
+- **Kalan:** 0  
+
+### 🧠 Tahmin Mantığı
+- Düşük karmaşıklıkta işler: 1-2 SP  
+- Orta düzey işler: 3-5 SP  
+- Karmaşık işler: 5-8 SP  
+
+> Bu süreçte takım üyeleri birlikte planlama yaparak her story için tahmini puan verdiler.  
+> Sprint sonunda hedeflenen 21 SP başarıyla tamamlandı.
+
+---
+
+## 🧾 Daily Scrum Notları
+- Günlük toplantılarda ilerlemeler düzenli olarak paylaşıldı.
+
+![Daily 1](https://github.com/user-attachments/assets/d851bd8b-28df-4ca0-8414-73b68dcd1699)  
+![Daily 2](https://github.com/user-attachments/assets/0bc4801f-22ea-47b4-b240-03606741170b)  
+![Daily 3](https://github.com/user-attachments/assets/d140c25d-07b0-4b6b-9e1e-23a64b284012)
+
+---
+
+## 🗂️ Sprint Board Güncellemesi
+
+![Sprint Board](https://github.com/user-attachments/assets/e959e745-ba30-4c9d-b134-c1319710e0a3)
+
+---
+
+## 📸 Ekran Görüntüleri
+
+![Ekran 1](https://github.com/user-attachments/assets/85c26916-d77d-483b-aa39-787f1eeb5ccb)  
+![Ekran 2](https://github.com/user-attachments/assets/c735d06a-e1c2-4510-9693-21d50122fef4)  
+![Ekran 3](https://github.com/user-attachments/assets/d9ebf57b-4a03-4c42-9d9a-84f939d9a11c)  
+![Ekran 4](https://github.com/user-attachments/assets/4c74abe9-75b5-4f37-8621-5b410a30aa23)  
+![Ekran 5](https://github.com/user-attachments/assets/325979d1-e208-4345-a5fc-df6bcae24f36)
+
+---
+
+## ✅ Sprint Review
+- Sprint 3 kapsamında belirlenen tüm görevler tamamlanarak proje teslim için hazır hale getirildi.
+- **Katılımcılar:** Product Owner, Scrum Master, Developer Üyeleri
+- **Geri Bildirimler:**
+  - Projenin hedeflenen işlevselliğe ulaştığı değerlendirildi.
+  - Tanıtım videosu ve sunum materyallerinin projenin anlatımında faydalı olduğu belirtildi.
+  - Uygulamanın performansı ve stabilitesi yeterli bulundu.
+
+---
+
+## 🔁 Sprint Retrospective
+
+### ✅ Ne İyi Gitti?
+- Proje hedefleri zamanında ve planlandığı şekilde tamamlandı.
+- Takım içi iletişim ve görev paylaşımı etkiliydi.
+- Teknik entegrasyonlar sorunsuz gerçekleşti.
+- Testler başarılı şekilde yapıldı ve uygulamanın temel fonksiyonları çalışır durumdaydı.
+- Proje sunumu için hazırlanan video ve materyaller ekip tarafından başarılı bulundu.
+
+### 📌 Kapanış Değerlendirmesi
+- Ekip olarak projenin gereksinimlerini karşılayan işlevsel bir ürün ortaya koyuldu.
+- Sprint süreçleri planlandığı şekilde ilerledi.
+- Proje, takım üyelerinin koordinasyon ve teknik becerilerini geliştiren bir deneyim oldu.
+
+### 🎯 Aksiyonlar
+- Proje dokümantasyonu tamamlanarak teslim edilecek.
+- Proje sürecinde edinilen deneyimler ekip içinde paylaşılacak.
+
+
+
+
+
 
 
 
