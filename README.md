@@ -244,7 +244,6 @@ ________________________________________________________________________________
 ## 🧾 Daily Scrum Notları
 - Günlük toplantılarda ilerlemeler düzenli olarak paylaşıldı.
 
-![Daily 1](https://github.com/user-attachments/assets/d851bd8b-28df-4ca0-8414-73b68dcd1699)  
 ![Daily 2](https://github.com/user-attachments/assets/0bc4801f-22ea-47b4-b240-03606741170b)  
 ![Daily 3](https://github.com/user-attachments/assets/d140c25d-07b0-4b6b-9e1e-23a64b284012)
 
